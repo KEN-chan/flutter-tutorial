@@ -1,6 +1,22 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/harakenta/FlutterProjects/flutter-tutorial/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/harakenta/FlutterProjects/flutter-tutorial/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/harakenta/flutter_app/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {

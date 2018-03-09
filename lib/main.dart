@@ -113,5 +113,4 @@ class RandomWordsState extends State<RandomWords> {
       body: ListView(children: divided),
     );
   }
-
 }
