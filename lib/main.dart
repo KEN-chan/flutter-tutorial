@@ -8,10 +8,10 @@ import 'package:flutter/material.dart';
 
 void main() {
   //debugPaintSizeEnabled = true;
-  runApp(new MyApp());
+  runApp(new LakeApp());
 }
 
-class MyApp extends StatelessWidget {
+class LakeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Widget titleSection = new Container(

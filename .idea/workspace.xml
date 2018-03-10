@@ -2,57 +2,166 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41bf176e-3743-4a9b-97a2-7ef6f4af500a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppFrameworkInfo.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon60x60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon60x60@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon76x76@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon76x76~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Debug.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/App" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/Flutter" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/icudtl.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Generated.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Runner" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/embedded.mobileprovision" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/AssetManifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/FontManifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/kernel_blob.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/platform.dill" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/main.dart" afterPath="$PROJECT_DIR$/lib/main3.dart" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/main2.dart" afterPath="$PROJECT_DIR$/lib/main.dart" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/main_dart.dart" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/models/Product.dart" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-07-17-43-13-268.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-07-17-43-13-268.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-07-17-43-31-989.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-07-17-43-31-989.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-08-10-59-36-034.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-08-10-59-36-034.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-08-10-59-54-993.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-08-10-59-54-993.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/App.framework/App" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/gen_snapshot.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/kDartIsolateSnapshotData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/kDartIsolateSnapshotData.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/kDartIsolateSnapshotData.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/kDartVmSnapshotData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/kDartVmSnapshotData.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/kDartVmSnapshotData.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/snapshot.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/aot/snapshot.d.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/generated/source/buildConfig/debug/com/harakenta/flutterapp/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/generated/source/r/debug/com/harakenta/flutterapp/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/AssetManifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/FontManifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/platform.dill" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/blame/res/debug/multi-v2/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/blame/res/debug/single/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/harakenta/flutterapp/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/harakenta/flutterapp/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/harakenta/flutterapp/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/harakenta/flutterapp/R$mipmap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/harakenta/flutterapp/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/harakenta/flutterapp/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/io/flutter/plugins/GeneratedPluginRegistrant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/app.flx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/platform.dill" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/flutter-x86.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Q16sB1dioGHJ+_erz3eHorsME1c=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/c6GQn1dhLVVZ0fM7KCSwoAbrfwc=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/Q16sB1dioGHJ+_erz3eHorsME1c=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/c6GQn1dhLVVZ0fM7KCSwoAbrfwc=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/zip-cache/021lZmWI5NQn2nAO8zrtGXUu0dg=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/debug/zip-cache/sjKsTtFD8KEbI6W+JxVMnQUlByw=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/density/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/full/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/instant-run/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/debug/resources-debug.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/splits-support/debug/split-list.gson" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/com/harakenta/flutterapp/BuildConfig.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/com/harakenta/flutterapp/MainActivity.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/com/harakenta/flutterapp/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/com/harakenta/flutterapp/R$mipmap.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/com/harakenta/flutterapp/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/com/harakenta/flutterapp/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/16/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libflutter.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libflutter.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libflutter.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/outputs/logs/manifest-merger-debug-report.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/tmp/flutterBuildX86Jar/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppFrameworkInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon60x60@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon60x60@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon76x76@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon76x76~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Assets.car" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Debug.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/App.framework/App" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/App.framework/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/Flutter" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/icudtl.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Generated.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/PkgInfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Runner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/embedded.mobileprovision" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/AssetManifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/FontManifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/kernel_blob.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/platform.dill" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/snapshot_blob.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/snapshot_blob.bin.d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/snapshot_blob.bin.d.fingerprint" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app.dill" afterPath="$PROJECT_DIR$/build/app.dill" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app.dill.incremental.dill" afterPath="$PROJECT_DIR$/build/app.dill.incremental.dill" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app.flx" afterPath="$PROJECT_DIR$/build/app.flx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/flutter_assets/kernel_blob.bin" afterPath="$PROJECT_DIR$/build/flutter_assets/kernel_blob.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Assets.car" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Assets.car" />
@@ -70,16 +179,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/flutter_assets/kernel_blob.bin" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/flutter_assets/kernel_blob.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" afterPath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/flutter_assets/LICENSE" afterPath="$PROJECT_DIR$/build/flutter_assets/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Generated.xcconfig" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Generated.xcconfig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/AssetManifest.json" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/AssetManifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/LICENSE" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Generated.xcconfig" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Generated.xcconfig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/flutter_assets/AssetManifest.json" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/flutter_assets/AssetManifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/flutter_assets/LICENSE" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/flutter_assets/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.dart" afterPath="$PROJECT_DIR$/lib/main.dart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main3.dart" afterPath="$PROJECT_DIR$/lib/main3.dart" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/widget_test.dart" afterPath="$PROJECT_DIR$/test/widget_test.dart" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +198,8 @@
       <file leaf-file-name="main3.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main3.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -104,19 +207,70 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <file leaf-file-name="Product.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/models/Product.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="30">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_dart.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main_dart.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="42" lean-forward="true" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
               <folding>
-                <element signature="e#0#3518#0" expanded="true" />
+                <element signature="e#0#2031#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-236">
+              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#3522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widget_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="27" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#1084#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ast.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/kernel-0.3.0-alpha.9/lib/ast.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1289">
+              <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,13 +285,20 @@
       <list>
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/main2.dart" />
+        <option value="$PROJECT_DIR$/lib/gridview.dart" />
+        <option value="$PROJECT_DIR$/lib/main_grid.dart" />
+        <option value="$PROJECT_DIR$/lib/main3.dart" />
+        <option value="$PROJECT_DIR$/test/widget_test.dart" />
         <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lib/main_dart.dart" />
+        <option value="$PROJECT_DIR$/lib/models/Product.dart" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="1680" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -154,6 +315,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,16 +338,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flutter-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flutter-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,6 +370,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,7 +384,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart">
+  <component name="RunManager" selected="Flutter.main_grid">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -276,7 +452,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520608084830" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520725185457" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -324,7 +500,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520608084831" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520725185457" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -369,6 +545,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -461,9 +658,14 @@
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="main_grid" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main_dart.dart" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Flutter.main3.dart" />
       <item index="1" class="java.lang.String" itemvalue="Flutter.main.dart" />
+      <item index="2" class="java.lang.String" itemvalue="Flutter.main_grid" />
     </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -498,7 +700,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="1680" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -506,17 +709,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12942614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.085782364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12576313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08181096" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -525,8 +729,35 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1480" height="850" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="100" y="100" width="1480" height="850" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.085385226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08181096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -536,6 +767,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main3.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#3522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#1084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/kernel-0.3.0-alpha.9/lib/ast.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3765">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main3.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/lake.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#3522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main_grid.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/main3.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#3522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main3.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -551,7 +866,7 @@
         <state relative-caret-position="105">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
-            <element signature="e#0#3518#0" expanded="true" />
+            <element signature="e#0#3522#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -570,23 +885,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/lake.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main_grid.dart" />
+    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#1084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/kernel-0.3.0-alpha.9/lib/ast.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1289">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#3522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main_dart.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="42" lean-forward="true" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#2031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main3.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+    <entry file="file://$PROJECT_DIR$/lib/models/Product.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#3518#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
